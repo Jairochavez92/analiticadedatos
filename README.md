@@ -12,7 +12,7 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
    - Esta categoría ha experimentado una disminución constante en las ventas al compararla con ropa y belleza. 
 ![grafico-de-barras](https://github.com/Jairochavez92/analiticadedatos/assets/174209130/abef6c12-230c-4b73-9666-e7c9441a67db)
 ## Código utilizado en el análisis
-SELECT* FROM table
+```SELECT* FROM table```
 
 _Prueba_
 *Prueba*
